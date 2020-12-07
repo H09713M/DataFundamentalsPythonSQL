@@ -1,4 +1,4 @@
-# Data Fundamentals with Python and SQL
+# Python for Data Science and AI
 ### This is my repository for all labs and assignments for the Data Fundamentals with Python and SQL course on Coursera.
 
 - PY0101EN-1-1-Types.ipynb - Jupyter Notebook for Python Types Lab (Week 1 - Lab 1)
