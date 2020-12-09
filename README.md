@@ -17,3 +17,4 @@
 - PY0101EN-5-2-Numpy2D.ipynb - Jupyter Notebook for Python Two Dimension NumPy Lab (Week 5 - Lab 2)
 - PY0101EN-5-4-Intro_API.ipynb - Jupyter Notebook for Python Introduction to APIs Lab (Week 5 - Lab 4)
 - PY0101EN-5-5-Requests_HTTP.ipynb - Jupyter Notebook for Python HTTP Requests Lab (Week 5 - Lab 5)
+- Python for Data Science and AI Peer-Graded Assignment.ipynp - Jupyter Notebook, created on IBM Watson Studio (Final Assignment)
